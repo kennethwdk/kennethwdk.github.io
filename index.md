@@ -11,12 +11,11 @@ I received my Bachelor degree from [University of Electronic Science and Technol
 - Human pose estimation
 - Person re-identification
 
-<!-- ## News
+## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **[Mar. 2022]** One paper is accepted to CVPR 2022.
+- **[Sept. 2021]** One paper is accepted to NeurIPS 2021.
+- **[Feb. 2020]** One paper is accepted to CVPR 2020.
 
 ## Publications
 
