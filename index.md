@@ -2,17 +2,18 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I received my Bachelor degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2019. Currently I am a Ph.D. student in [Peking University](https://www.pku.edu.cn/).
+I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. Shiliang Zhang. Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning.
 
-## Research Interests
+<!-- ## Research Interests
 
 - Human pose estimation
-- Person re-identification
+- Person re-identification -->
 
 ## News
 
+- **[Aug. 2022]** One paper is accepted to IJCV 2022.
 - **[Mar. 2022]** One paper is accepted to CVPR 2022.
 - **[Sept. 2021]** One paper is accepted to NeurIPS 2021.
 - **[Feb. 2020]** One paper is accepted to CVPR 2020.
