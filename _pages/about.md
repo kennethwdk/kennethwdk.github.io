@@ -17,6 +17,7 @@ News
 - **[Sept. 2021]** One paper is accepted to NeurIPS 2021.
 - **[Feb. 2020]** One paper is accepted to CVPR 2020.
 
+
 Publications
 ======
 - **Contextual Instance Decoupling for Robust Multi-Person Pose Estimation**
