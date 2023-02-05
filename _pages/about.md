@@ -12,10 +12,10 @@ I'm a forth-year PhD student in the School of Computer Science at [Peking Univer
 
 News
 ======
-- **[Aug. 2022]** One paper is accepted to IJCV 2022.
-- **[Mar. 2022]** One paper is accepted to CVPR 2022.
-- **[Sept. 2021]** One paper is accepted to NeurIPS 2021.
-- **[Feb. 2020]** One paper is accepted to CVPR 2020.
+- **[2022.08]** One paper is accepted to IJCV 2022.
+- **[2022.03]** One paper is accepted to CVPR 2022.
+- **[2021.09]** One paper is accepted to NeurIPS 2021.
+- **[2020.02]** One paper is accepted to CVPR 2020.
 
 
 Publications
