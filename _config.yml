@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Homepage
+title: Dongkai Wang's Homepage
 description: >- # this means to ignore newlines until "baseurl:"
   This is Dongkai Wang's homepage
 baseurl: "/bay" # the subpath of the site
@@ -14,16 +14,31 @@ header:
     - name: Home
       slug: /
     - name: Work
+    - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: dongkai.wang@pku.edu.cn
-      link: mailto:dongkai.wang@pku.edu.cn
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
   follow:
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+    - name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/kennethwdk
+      link: http://github.com/YourGitHubUsername
+    - name: Dribbble
+      link: https://dribbble.com/YourDribbbleUsername
+    - name: RSS
+      link: /feed.xml
 
 # Build settings
 markdown: kramdown
