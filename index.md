@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Ph.D. student, Computer Science<br />Peking University<br />
+  Ph.D. student, Computer Science<br />Peking University
 </p>
 
 [Curriculum Vitae](/assets/files/cv.pdf)
@@ -14,10 +14,10 @@ profile_picture:
 ***
 
 <br />
+
 I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. Shiliang Zhang. Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning.
 
-News
-====
+### News
 - **[2023.02]** One paper is accepted by TPAMI 2023.
 - **[2022.08]** One paper is accepted by IJCV 2022.
 - **[2022.03]** One paper is accepted by CVPR 2022.
@@ -25,8 +25,7 @@ News
 - **[2020.02]** One paper is accepted by CVPR 2020.
 
 
-Publications
-====
+### Publications
 - **Contextual Instance Decoupling for Instance-Level Human Analysis**
   <br>
   **Dongkai Wang**, Shiliang Zhang
