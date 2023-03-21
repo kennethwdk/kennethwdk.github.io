@@ -7,10 +7,13 @@ profile_picture:
 
 <p>
   Ph.D. student, Computer Science<br />Peking University<br />
-  [Curriculum Vitae](/assets/files/cv.pdf)
 </p>
+
+[Curriculum Vitae](/assets/files/cv.pdf)
+
 ***
 
+<br />
 I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. Shiliang Zhang. Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning.
 
 News
