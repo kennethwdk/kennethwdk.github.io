@@ -11,7 +11,7 @@ profile_picture:
 ***
 &nbsp;
 
-I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. [Shiliang Zhang](https://www.pkuvmc.com/). Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning.
+I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. [Shiliang Zhang](https://www.pkuvmc.com/). Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning, especially focus on human pose, shape and identity perception in the wild.
 
 <big><b>News</b></big>
 
