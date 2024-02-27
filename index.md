@@ -48,7 +48,7 @@ I'm a final year PhD student in the School of Computer Science at [Peking Univer
 
 - **Deep Learning Based 2D Human Pose Estimation: Present and Future**
   <br>
-  Jianing Li\*, **Dongkai Wang∗*\*, Shiliang Zhang (\* indicates equal contribution)
+  Jianing Li<sup>\*</sup>, **Dongkai Wang** <sup>\*</sup>, Shiliang Zhang (\* indicates equal contribution)
   <br>
   Chinese Journal of Computers. **CJC 2024**.
   <br>
