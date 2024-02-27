@@ -52,7 +52,15 @@ I'm a final year PhD student in the School of Computer Science at [Peking Univer
   <br>
   Chinese Journal of Computers. **CJC 2024**.
   <br>
-  [coming soon]
+  [[Paper](http://cjc.ict.ac.cn/online/onlinepaper/ljn-20231229123228.pdf)]
+
+- **HumVis: Human-Centric Visual Analysis System**
+  <br>
+  **Dongkai Wang**, Shiliang Zhang, Yaowei Wang, Yonghong Tian, Tiejun Huang, Wen Gao
+  <br>
+  ACM International Conference on Multimedia. **ACM MM 2023**.
+  <br>
+  [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612663)] [[Code](https://github.com/kennethwdk/HumVis)]
 
 - **3D Human Mesh Recovery with Sequentially Global Rotation Estimation**
   <br>
@@ -60,7 +68,7 @@ I'm a final year PhD student in the School of Computer Science at [Peking Univer
   <br>
   International Conference on Computer Vision. **ICCV 2023**.
   <br>
-  [coming soon]
+  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_3D_Human_Mesh_Recovery_with_Sequentially_Global_Rotation_Estimation_ICCV_2023_paper.html)] [[Code](https://github.com/kennethwdk/SGRE)]
 
 - **Contextual Instance Decoupling for Instance-Level Human Analysis**
   <br>
