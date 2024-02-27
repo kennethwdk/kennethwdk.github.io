@@ -11,10 +11,13 @@ profile_picture:
 ***
 &nbsp;
 
-I'm a forth-year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. [Shiliang Zhang](https://www.pkuvmc.com/). Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning, especially focus on human pose, shape and identity perception in the wild.
+I'm a final year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. [Shiliang Zhang](https://www.pkuvmc.com/). Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
 
 <big><b>News</b></big>
 
+- **[2024.02]** Two papers are accepted by CVPR 2024.
+- **[2024.01]** One paper is accepted by CJC 2024.
+- **[2023.07]** One paper is accepted by ACM MM 2023.
 - **[2023.07]** One paper is accepted by ICCV 2023.
 - **[2023.02]** One paper is accepted by TPAMI 2023.
 - **[2022.08]** One paper is accepted by IJCV 2022.
@@ -26,6 +29,30 @@ I'm a forth-year PhD student in the School of Computer Science at [Peking Univer
 <big><b>Publications</b></big> 
 
 <!-- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=ThxNGiQAAAAJ) -->
+
+- **LocLLM: Exploiting Generalizable Human Keypoint Localization via Large Language Model**
+  <br>
+  **Dongkai Wang**, Shiyu Xuan, Shiliang Zhang
+  <br>
+  Conference on Computer Vision and Pattern Recognition. **CVPR 2024**.
+  <br>
+  [coming soon]
+
+- **Spatial-Aware Regression for Keypoint Localization**
+  <br>
+  **Dongkai Wang**, Shiliang Zhang
+  <br>
+  Conference on Computer Vision and Pattern Recognition. **CVPR 2024**.
+  <br>
+  [coming soon]
+
+- **Deep Learning Based 2D Human Pose Estimation: Present and Future**
+  <br>
+  Jianing Li$^*$, **Dongkai Wang∗*$^*$, Shiliang Zhang (∗ indicates equal contribution)
+  <br>
+  Chinese Journal of Computers. **CJC 2024**.
+  <br>
+  [coming soon]
 
 - **3D Human Mesh Recovery with Sequentially Global Rotation Estimation**
   <br>
