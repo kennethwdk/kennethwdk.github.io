@@ -5,13 +5,13 @@ profile_picture:
   alt: website picture
 ---
 
-  Ph.D. student, Computer Science<br />Peking University<br />
+  Ph.D., Computer Science<br />Peking University<br />
   [Curriculum Vitae](/assets/files/cv.pdf)
 
 ***
 &nbsp;
 
-I'm a final year PhD student in the School of Computer Science at [Peking University](https://www.pku.edu.cn/). Currently, I am a member of VMC lab under the supervision of Prof. [Shiliang Zhang](https://www.pkuvmc.com/). Prior to that, I received my Bachelor degree (Electronic Information Engineering) in 2019 from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
+I received my Ph.D. degree in Computer Science at [Peking University](https://www.pku.edu.cn/) advised by Prof. [Shiliang Zhang](https://www.pkuvmc.com/) in 2024. Prior to that, I received my Bachelor degree in Electronic Information Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2019. My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
 
 <big><b>News</b></big>
 
@@ -36,7 +36,7 @@ I'm a final year PhD student in the School of Computer Science at [Peking Univer
   <br>
   Conference on Computer Vision and Pattern Recognition. **CVPR 2024**.
   <br>
-  [coming soon]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_LocLLM_Exploiting_Generalizable_Human_Keypoint_Localization_via_Large_Language_Model_CVPR_2024_paper.pdf)] [[Code](https://github.com/kennethwdk/LocLLM)] <strong><i style="color:#e74d3c">Highlight</i></strong>
 
 - **Spatial-Aware Regression for Keypoint Localization**
   <br>
@@ -44,7 +44,8 @@ I'm a final year PhD student in the School of Computer Science at [Peking Univer
   <br>
   Conference on Computer Vision and Pattern Recognition. **CVPR 2024**.
   <br>
-  [coming soon]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Spatial-Aware_Regression_for_Keypoint_Localization_CVPR_2024_paper.pdf)]
+  [[Code](https://github.com/kennethwdk/SAR)] <strong><i style="color:#e74d3c">Highlight</i></strong>
 
 - **Deep Learning Based 2D Human Pose Estimation: Present and Future**
   <br>
