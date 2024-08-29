@@ -5,13 +5,13 @@ profile_picture:
   alt: website picture
 ---
 
-  Ph.D., Computer Science<br />Peking University<br />
+  Ph.D., Computer Science<br />Assistant Professor, SWUFE<br />
   [Curriculum Vitae](/assets/files/cv.pdf)
 
 ***
 &nbsp;
 
-I received my Ph.D. degree in Computer Science at [Peking University](https://www.pku.edu.cn/) advised by Prof. [Shiliang Zhang](https://www.pkuvmc.com/) in 2024. Prior to that, I received my Bachelor degree in Electronic Information Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2019. My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
+I am an Assistant Professor at [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/). I received my Ph.D. degree in Computer Science at [Peking University](https://www.pku.edu.cn/) advised by Prof. [Shiliang Zhang](https://www.pkuvmc.com/) in 2024. Prior to that, I received my Bachelor degree in Electronic Information Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2019. My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
 
 <big><b>News</b></big>
 
