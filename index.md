@@ -5,16 +5,17 @@ profile_picture:
   alt: website picture
 ---
 
-  Ph.D., Computer Science<br />Assistant Professor, SWUFE<br />
+  Ph.D., Computer Science<br />Professor, SWUFE<br />
   [Curriculum Vitae](/assets/files/cv.pdf)
 
 ***
 &nbsp;
 
-I am an Assistant Professor at [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/). I received my Ph.D. degree in Computer Science at [Peking University](https://www.pku.edu.cn/) advised by Prof. [Shiliang Zhang](https://www.pkuvmc.com/) in 2024. Prior to that, I received my Bachelor degree in Electronic Information Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2019. My research interests include Computer Vision and Machine Learning. Specifically, I am interested in building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification.
+Dongkai Wang received the PhD degree from Peking University and BE degree from University of Electronic Science and Technology of China. He is curently a Professor at Southwestern University of Finance and Economics. He has authored or co-authored over 10+ papers in journals and conferences including IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), International Journal on Computer Vision (IJCV), CVPR, ICCV, NeurIPS, and ACM Multimedia. His research interests focus on building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification. He is a recipient of the outstanding doctoral dissertation awards from the school of computer science, Peking University, and is a memeber of CCF/CSIG Technical Committee on Multimedia.
 
 <big><b>News</b></big>
 
+- **[2025.02]** One paper is accepted by CVPR 2025.
 - **[2024.02]** Two papers are accepted by CVPR 2024.
 - **[2024.01]** One paper is accepted by CJC 2024.
 - **[2023.07]** One paper is accepted by ACM MM 2023.
@@ -29,6 +30,14 @@ I am an Assistant Professor at [Southwestern University of Finance and Economics
 <big><b>Publications</b></big> 
 
 <!-- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=ThxNGiQAAAAJ) -->
+
+- **Generalizable Object Keypoint Localization from Generative Priors**
+  <br>
+  **Dongkai Wang**, Jiang Duan, Liangjian Wen, Shiyu Xuan, Hao Chen, Shiliang Zhang
+  <br>
+  Conference on Computer Vision and Pattern Recognition. **CVPR 2025**.
+  <br>
+  [Coming soon] 
 
 - **LocLLM: Exploiting Generalizable Human Keypoint Localization via Large Language Model**
   <br>
