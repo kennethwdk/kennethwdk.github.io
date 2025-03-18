@@ -6,7 +6,9 @@ profile_picture:
 ---
 
   Ph.D., Computer Science<br />Professor, SWUFE<br />
-  [Curriculum Vitae](/assets/files/cv.pdf)
+  Email: wdk AT swufe.edu.cn
+  [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=ThxNGiQAAAAJ)
+  <!-- [Curriculum Vitae](/assets/files/cv.pdf) -->
 
 ***
 &nbsp;

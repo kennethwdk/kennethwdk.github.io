@@ -17,13 +17,13 @@ header:
 
 footer:
   show_powered_by: true
-  contact:
-    - name: Email
-      value: dongkai.wang@pku.edu.cn
-      link: mailto:dongkai.wang@pku.edu.cn
-  follow:
-    - name: GitHub
-      link: http://github.com/kennethwdk
+  # contact:
+  #   - name: Email
+  #     value: dongkai.wang@pku.edu.cn
+  #     link: mailto:dongkai.wang@pku.edu.cn
+  # follow:
+  #   - name: GitHub
+  #     link: http://github.com/kennethwdk
 
 # Build settings
 markdown: kramdown
