@@ -12,7 +12,7 @@ profile_picture:
 ***
 &nbsp;
 
-Dongkai Wang received the PhD degree from Peking University and BE degree from University of Electronic Science and Technology of China. He is curently a Professor at Southwestern University of Finance and Economics. He has authored or co-authored over 10+ papers in journals and conferences including IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), International Journal on Computer Vision (IJCV), CVPR, ICCV, NeurIPS, and ACM Multimedia. His research interests focus on building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification. He is a recipient of the outstanding doctoral dissertation awards from the school of computer science, Peking University, and is a memeber of CCF/CSIG Technical Committee on Multimedia.
+Dongkai Wang received the PhD degree from Peking University and BE degree from University of Electronic Science and Technology of China. He is curently a professor at Southwestern University of Finance and Economics. He has authored or co-authored over 10+ papers in journals and conferences including IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), International Journal on Computer Vision (IJCV), CVPR, ICCV, NeurIPS, ACM Multimedia, etc. His research interests focus on building human-aware AI systems that can perceive and understand human beings, including Human Pose and Shape Estimation and Person Re-identification. He is a recipient of the Outstanding Doctoral Dissertation Awards from the School of Computer Science, Peking University, and is a memeber of CCF/CSIG Technical Committee on Multimedia.
 
 <big><b>News</b></big>
 
