@@ -1,6 +1,6 @@
 ---
 title:          "Spatial-Aware Regression for Keypoint Localization"
-date:           2024-06-17 00:01:00 +0800
+date:           2024-06-16 00:01:00 +0800
 selected:       true
 pub:            "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
